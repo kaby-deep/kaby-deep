@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Narayan Mahapatra</h1>
-<h3 align="center">An aspiring Java developer from India</h3>
+<h3 align="center">An aspiring Java Developer from India</h3>
 <img align="right" alt="coding" height="300" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaby-deep&label=Profile%20views&color=0e75b6&style=flat" alt="kaby-deep" /> </p>
