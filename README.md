@@ -1,7 +1,7 @@
 ![logo](https://github.com/kaby-deep/kaby-deep/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Deep Narayan Mahapatra</h1>
 <h3 align="center">An aspiring Java Developer from India</h3>
-<img align="right" alt="coding" height="300" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" alt="coding" height="300" width="400" src="https://i.pinimg.com/originals/0a/8b/a1/0a8ba1f254df17146e9aa237dfb2c7fa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaby-deep&label=Profile%20views&color=0e75b6&style=flat" alt="kaby-deep" /> </p>
 
