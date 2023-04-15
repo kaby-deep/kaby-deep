@@ -1,3 +1,4 @@
+![logo](https://github.com/kaby-deep/kaby-deep/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Deep Narayan Mahapatra</h1>
 <h3 align="center">An aspiring Java Developer from India</h3>
 <img align="right" alt="coding" height="300" width="300" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
