@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **deep24m21@gmail.com**
 
-- ⚡ Fun fact **I am a Perfectionist Procrastinator ✨**
+- ⚡ Fun fact:  **I am a Perfectionist Procrastinator ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
