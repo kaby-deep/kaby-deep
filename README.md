@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microsoft Azure Fundamentals, Advanced Java and Spring Boot**
 
-- 👨‍💻 I'm currently working on the Project [Emulating the Enigma](https://github.com/kaby-deep/Emulating-the-Enigma)
+- 👨‍💻 I'm currently working on the Project [ECC Using FourQ](https://github.com/kaby-deep/ECC-FourQ)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaby-deep](https://github.com/kaby-deep)
 
