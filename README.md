@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deep_2k" target="blank"><img src="https://img.shields.io/twitter/follow/deep_2k?logo=twitter&style=for-the-badge" alt="deep_2k" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Azure Fundamentals, Advanced Java and Spring Boot**
+- 🌱 I’m currently learning **Collaborative Filtering Algorithm**
 
 - 👨‍💻 I'm currently working on the Project [Movie Recommender System using Collaborative Filtering]([https://github.com/kaby-deep/ECC-FourQ](https://github.com/kaby-deep/Collborative-Filtering))
 
@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/deep_2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deep_2k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deep narayan mahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep narayan mahapatra" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drizzy.rn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deep099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deep099" height="30" width="40" /></a>
 </p>
 
